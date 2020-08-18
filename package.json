@@ -1,0 +1,33 @@
+{
+  "name": "@zestia/prettier-config",
+  "version": "1.0.2",
+  "description": "Prettier config",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm run lint",
+    "lint": "eslint .",
+    "prettier": "prettier . --write",
+    "release": "release-it"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/zestia/prettier-config.git"
+  },
+  "keywords": [
+    "prettier",
+    "prettier-config"
+  ],
+  "author": "Zestia",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/zestia/prettier-config/issues"
+  },
+  "homepage": "https://github.com/zestia/prettier-config",
+  "dependencies": {},
+  "devDependencies": {
+    "@zestia/eslint-config": "^2.0.42",
+    "eslint": "^7.6.0",
+    "prettier": "^2.0.5",
+    "release-it": "^13.6.6"
+  }
+}
