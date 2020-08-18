@@ -1,5 +1,5 @@
 {
-  "name": "@zestia/prettier-config",
+  "name": "@zlahir/prettier-config",
   "version": "1.0.2",
   "description": "Prettier config",
   "main": "index.js",
@@ -11,21 +11,21 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/zestia/prettier-config.git"
+    "url": "git+https://github.com/zilahir/prettier-config.git"
   },
   "keywords": [
     "prettier",
     "prettier-config"
   ],
-  "author": "Zestia",
+  "author": "zilahir",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/zestia/prettier-config/issues"
+    "url": "https://github.com/zilahir/prettier-config/issues"
   },
-  "homepage": "https://github.com/zestia/prettier-config",
+  "homepage": "https://github.com/zilahir/prettier-config",
   "dependencies": {},
   "devDependencies": {
-    "@zestia/eslint-config": "^2.0.42",
+    "@zilahir/eslint-config": "^2.0.42",
     "eslint": "^7.6.0",
     "prettier": "^2.0.5",
     "release-it": "^13.6.6"
